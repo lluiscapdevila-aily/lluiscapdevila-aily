@@ -1,7 +1,7 @@
 - 👋 I’m Lluís Capdevila, I joined Aily back in December 2020.
-- 📚 I'm passionate about AI, coding and their link to productivity and automation.
-- 🛜 My role at Aily is Director of AI-Tech Engineering, and I am in the AI team.
-- 📝 I'm determined to empower the Aily team by setting the best possible coding and Applied AI standards.
+- 📚 I'm passionate about AI & software engineering and their link to productivity and automation.
+- 🛜 My role at Aily is Director of AI-Tech Engineering, and I am a member of the AI team.
+- 📝 I'm determined to empower the Aily team by setting the best possible coding and Applied AI standards and guidelines.
 - 👨🏽‍💻 You can find me contributing across several repositories, as my passion for coding won't let me get away from it.
 
 
